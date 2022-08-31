@@ -5,21 +5,11 @@
 <img alt="Logo do Projeto" title="#Logo-do-projeto" src="./assets/img/logo.png" width="100px"/>
 </h1>
 
-<style>
-    .link__{
-        color: #DBAC74;
-    }
-
-    .bg{
-      border-radius: 10px;
-    }
-</style>
-
 <p align="center">
- <a class="link__" href="#-sobre-o-projeto">Sobre</a> •
- <a class="link__" href="#-layout">Layout</a> • 
- <a class="link__" href="#-tecnologias">Tecnologias</a> • 
- <a class="link__" href="#user-content--licença">Licença</a>
+ <a href="#-sobre-o-projeto">{c:#B81365}Sobre{/c}</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#user-content--licença">Licença</a>
 </p>
 
 
