@@ -1,0 +1,51 @@
+/* ---- Início do estilo do main ---- */
+
+.container {
+    background: url('../img/bg.png') no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.principal{
+    width: 60%;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    color: var(--txt);
+}
+
+.principal h1{
+    font-size: 110px;
+}
+
+.principal p{
+    font-size: 34px;
+    margin-top: 20px;
+}
+
+.btn__join{
+    margin-top: 30px;
+    width: 250px;
+    height: 80px;
+    border: none;
+    border-radius: 10px;
+    background: var(--btn);
+    color: var(--txt);
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+    text-align: center;
+    cursor: pointer;
+    transition: ease-in-out 400ms;
+}
+
+.btn__join:hover{
+    background: var(--btn-hover);
+}
+
+/* ---- Fim do estilo do main ---- */
+

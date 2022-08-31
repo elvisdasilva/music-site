@@ -1,0 +1,16 @@
+/* ---- Fontes ---- */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+/* ---- Fontes ---- */
+
+/* ---- Variáveis ---- */
+:root{
+    --bg: #DBAC74;
+    --txt: #FFFFFF;
+    --txt-hover: #f3f3f3;
+    --btn: #5E659D;
+    --btn-hover: #474e86;
+}
+
+/* ---- Variáveis ---- */
