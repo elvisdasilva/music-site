@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/elvisdasilva/music-site/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/elvisdasilva/music-site?color=orange"></a>
+  <a href="https://github.com/elvisdasilva/music-site/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/elvisdasilva/music-site?color=orange"></a>
+  <a href="https://github.com/elvisdasilva/music-site/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/elvisdasilva/music-site?color=orange"></a>
+</p>
+
 <h1 align="center">
   Music Site
 </h1>
