@@ -44,11 +44,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🚧 Projeto
 
-Live Preview: <a class="link__"></a>
+Live Preview: 
 
 ## 🎨 Layout:
 
-Figma: <a href="https://www.figma.com/community/file/1140995588614722532" class="link__">https://www.figma.com/community/file/1140995588614722532</a>
+Figma: https://www.figma.com/community/file/1140995588614722532
 
 ## 📝 Licença
 
